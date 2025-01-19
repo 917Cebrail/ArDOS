@@ -1,6 +1,7 @@
 # ArDOS
 We can now perform EEPROM operations and write programs via Arduino serial communication.
-# Arduino EEPROM-Based File System User Guide
+
+# Arduino EEPROM-Based File System (DOS) User Guide
 
 ## Overview
 This program provides a simple file system for Arduino, utilizing the EEPROM memory for data storage. The system supports two virtual disks, basic file management, and RAM variable storage. Below, you'll find details on the setup, functionality, and usage of this system.
